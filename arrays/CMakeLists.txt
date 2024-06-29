@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(hw)
+add_executable(task1_ARR task1.c)
+add_executable(task2_ARR task2.c)
+add_executable(task3_ARR task3.c)
+add_executable(task4_ARR task4.c)

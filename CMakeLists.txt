@@ -1,2 +1,4 @@
 cmake_minimum_required(VERSION 3.20)
 project(hw)
+add_subdirectory(byte_ops)
+add_subdirectory(arrays)

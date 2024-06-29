@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(hw)
+add_executable(task1_POINTERS task1.c)
+add_executable(task2_POINTERS task2.c)
+add_executable(task3_POINTERS task3.c)
+add_executable(task4_POINTERS task4.c)

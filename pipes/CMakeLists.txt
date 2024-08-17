@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(hw)
+add_executable(task1 task1.c)
+add_executable(client task2client.c)
+add_executable(server task2server.c)
+add_executable(task3 task3.c)
